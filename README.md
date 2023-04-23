@@ -1,4 +1,8 @@
-Hi 👋 My name is Artsiom Traskunou ==================================  Python Developer ----------------  * 🌍  I'm based in Poland, Gdańsk * ✉️  You can contact me at [wagamamanowelii@gmail.com](mailto:wagamamanowelii@gmail.com) * 🧠  I'm learning Django and Flask
+Hi 👋 My name is Artsiom Traskunou 
+==================================  Python Developer ----------------  
+* 🌍  I'm based in Poland, Gdańsk 
+* ✉️  You can contact me at [wagamamanowelii@gmail.com](mailto:wagamamanowelii@gmail.com) 
+* 🧠  I'm learning Django and Flask
 
 ### Skills  
 
