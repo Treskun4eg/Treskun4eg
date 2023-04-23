@@ -13,7 +13,7 @@ Have experience in:
 I have a passion for creating high-quality projects and always strive for excellence in my work. My development process is based on Test Driven Development and I enjoy using the Poetry framework to bring my ideas to life.
 
 * 🌍  I'm based in Poland, Gdańsk 
-* ✉️  You can contact me at [wagamamanowelii@gmail.com](mailto:wagamamanowelii@gmail.com)
+* ✉️  You can contact me at [email](mailto:wagamamanowelii@gmail.com)
 * 🧠  I'm learning Django and Flask
 
 ### Skills  
