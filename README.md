@@ -1,13 +1,21 @@
-Hi 👋 My name is Artsiom Traskunou 
-==================================  Python Developer ----------------  
+Hi 👋 My name is Artsiom Traskunou
+==================================  
+
+Python Developer
+----------------  
+
 * 🌍  I'm based in Poland, Gdańsk 
-* ✉️  You can contact me at [wagamamanowelii@gmail.com](mailto:wagamamanowelii@gmail.com) 
+* ✉️  You can contact me at [wagamamanowelii@gmail.com](mailto:wagamamanowelii@gmail.com)
 * 🧠  I'm learning Django and Flask
 
 ### Skills  
 
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> </p> 
- ### Socials  <p align="left"> <a href="https://www.facebook.com/profile.php?id=100066967045127" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Treskun4eg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/artsiom-traskunou-6b0241256" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+ ### Socials
+ 
+ <p align="left"> <a href="https://www.facebook.com/profile.php?id=100066967045127" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Treskun4eg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/artsiom-traskunou-6b0241256" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+ 
 ### Badges
 
 <b>My GitHub Stats</b>
